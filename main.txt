@@ -1,0 +1,11 @@
+In this project, the main goal is to use machine learning (ML) techniques to enhance wireless communications, particularly in the context of vehicular communications known as vehicle-to-everything (V2X) schemes. The project focuses on leveraging the Berlin V2X dataset for a specific purpose:
+
+1. **Objective**: The primary objective of the project is to predict the Quality of Service (QoS) in wireless networks. QoS refers to the level of service quality experienced by users, including factors like data speed, reliability, and overall network performance.
+
+2. **Dataset**: The project uses the Berlin V2X dataset, which likely contains data related to V2X communications in the Berlin metropolitan area. This dataset includes information from both primary and secondary cells of two commercial LTE mobile network operators. It also incorporates GPS and contextual information, which may include details about the location, environment, and conditions under which the communications occur.
+
+3. **Prediction Target**: Specifically, the project aims to predict the achieved throughput in the downlink. Throughput refers to the rate at which data is successfully transmitted from the network to a user's device, typically measured in bits per second (bps) or megabits per second (Mbps). Predicting this parameter is essential for ensuring a smooth and satisfactory user experience, especially in scenarios like V2X communications where real-time data transfer is critical.
+
+4. **Significance**: The results of this project are expected to have broader applications beyond the specific dataset and context. They are intended to serve as a foundation for developing general solutions for wireless QoS prediction in a multi-domain setup. This means the methods and models developed in this project could potentially be applied across different wireless network operators, devices, and communication directions to improve QoS prediction and, consequently, the overall user experience.
+
+In summary, the project aims to use machine learning techniques to predict the quality of wireless communications, with a focus on V2X scenarios in Berlin, using a combination of network data, GPS, and contextual information. The ultimate goal is to create models and methods that can be applied more widely in the field of wireless communications to enhance QoS prediction.
