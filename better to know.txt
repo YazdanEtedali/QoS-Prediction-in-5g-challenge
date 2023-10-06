@@ -1,0 +1,22 @@
+
+
+here are some results and essentials of my code that are essential to know :
+
+i used both median and mean for filling the null values of my data and evaluated it
+on both .
+
+the model worked bad when normalization :
+
+
+Mean Squared Error for mean(MSE mean): 682910195041932.00
+R-squared for mean (R2): 0.65
+Mean Squared Error for median(MSE median): 280687208150561.47
+R-squared  for med (R2): 0.85
+
+here are the results before normalization :
+
+Mean Squared Error for mean(MSE mean): 615116894344610.62
+R-squared for mean (R2): 0.68
+Mean Squared Error for median(MSE median): 107671004658676.12
+R-squared  for med (R2): 0.94
+
